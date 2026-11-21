@@ -1,7 +1,4 @@
 ## Hi there 👋
-https://minimalistic-wallpaper.demolab.com/?random=1
-https://minimalistic-wallpaper.demolab.com/?random=2
-https://minimalistic-wallpaper.demolab.com/?random=3
 
 <!--
 **Supernova11c/Supernova11c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Supernova11c's GitHub stats](https://gitshine.com/card/Supernova11c)](https://gitshine.com/stats/Supernova11c)
+(https://minimalistic-wallpaper.demolab.com/?random=1)
+(https://minimalistic-wallpaper.demolab.com/?random=2)
+(https://minimalistic-wallpaper.demolab.com/?random=3)
