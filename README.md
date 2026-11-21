@@ -1,5 +1,5 @@
 ## Hi there 👋
- 📫 How to reach me:contact at Supernova11c.np@gmail.com or supernova-founder@supernova11c.aclclouds.online or supernova-admin@supernova11c.int.yt
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=52F7AA&background=24FFC000&width=435&lines=Supernova+welcomes+all+visitors+;Contact+at+Supernova11c.np%40gmail.com;Supernova11c+Ai+and+software+foundation)](https://git.io/typing-svg)
 <!--
 **Supernova11c/Supernova11c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 .[![Supernova11c's GitHub wallpaper](https://minimalistic-wallpaper.demolab.com/?random=2)
 [![Supernova11c's GitHub stats](https://gitshine.com/card/Supernova11c)](https://gitshine.com/stats/Supernova11c)
 .[![Supernova11c's GitHub wallpaper](https://minimalistic-wallpaper.demolab.com/?random=3)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=52F7AA&background=24FFC000&width=435&lines=Supernova+welcomes+all+visitors+;Contact+at+Supernova11c.np%40gmail.com;Supernova11c+Ai+and+software+foundation)](https://git.io/typing-svg)
+
