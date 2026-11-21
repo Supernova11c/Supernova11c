@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Supernova11c's GitHub stats](https://gitshine.com/card/Supernova11c)](https://gitshine.com/stats/Supernova11c)
 .[![Supernova11c's GitHub wallpaper](https://minimalistic-wallpaper.demolab.com/?random=1)
-(https://minimalistic-wallpaper.demolab.com/?random=2)
-(https://minimalistic-wallpaper.demolab.com/?random=3)
+[![Supernova11c's GitHub stats](https://gitshine.com/card/Supernova11c)](https://gitshine.com/stats/Supernova11c)
+.[![Supernova11c's GitHub wallpaper](https://minimalistic-wallpaper.demolab.com/?random=2)
+[![Supernova11c's GitHub stats](https://gitshine.com/card/Supernova11c)](https://gitshine.com/stats/Supernova11c)
+.[![Supernova11c's GitHub wallpaper](https://minimalistic-wallpaper.demolab.com/?random=3)
