@@ -1,5 +1,9 @@
 ## Hi there 👋
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=52F7AA&background=24FFC000&width=435&lines=Supernova+welcomes+all+visitors+;Contact+at+Supernova11c.np%40gmail.com;Supernova11c+Ai+and+software+foundation)](https://git.io/typing-svg)
+ <p align="center">
+  <img src="./logo.gif" alt="My Logo" width="180" />
+</p>
+
 <!--
 **Supernova11c/Supernova11c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
